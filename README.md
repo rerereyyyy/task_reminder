@@ -11,4 +11,6 @@ SLACK_CHANNEL_ID=your_channel_id
 TASK_API_URL=your_task_url
 
 # task_remind.py を実行して、月末タスクをSlackに送信します。
+
+```bash
 python task_remind.py
